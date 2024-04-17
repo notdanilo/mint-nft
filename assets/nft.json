@@ -1,0 +1,10 @@
+{
+    "name": "Teleport NFT",
+    "symbol": "TPNFT",
+    "description": "This is a NFT draft for Teleport.",
+    "seller_fee_basis_points": 5,
+    "external_url": "",
+    "edition": "Founders Edition",
+    "background_color": "000000",
+    "image": "https://raw.githubusercontent.com/notdanilo/mint-nft/main/assets/1960a8a5-0e94-4361-880f-26047520161f.png"
+}
